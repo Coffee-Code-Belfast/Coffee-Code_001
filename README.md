@@ -1,4 +1,4 @@
-# First Coffee&amp;Code Meetup - HTML &amp; CSS**
+# First Coffee&amp;Code Meetup - HTML &amp; CSS
 
 Welcome to the first Coffee&Code Belfast!
 
