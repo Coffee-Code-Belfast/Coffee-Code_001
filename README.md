@@ -1,4 +1,5 @@
 # First Coffee&amp;Code Meetup - HTML &amp; CSS
+### Created by Caroline Chan
 
 Welcome to the first Coffee&Code Belfast!
 
