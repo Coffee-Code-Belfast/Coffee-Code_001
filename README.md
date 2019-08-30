@@ -9,7 +9,7 @@ Additional features may include any or all of the following: button linking to a
 
 Ideally, the landing page will be mobile responsive. You can use Flexbox, CSS Grid or Bootstrap.
 
-[Set up help:] (https://www.codecademy.com/articles/f1-u2-create-first-prj)
+[Set up help:](https://www.codecademy.com/articles/f1-u2-create-first-prj)
 
 [Free images](https://unsplash.com)
 
