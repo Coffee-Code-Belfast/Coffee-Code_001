@@ -1,5 +1,6 @@
 # First Coffee&amp;Code Meetup - HTML &amp; CSS
 ### Created by Caroline Chan
+### Guest mentors David Cutting and Ciara Magee
 
 ## Welcome to the first Coffee&Code Belfast!
 
