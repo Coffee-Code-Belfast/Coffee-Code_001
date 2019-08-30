@@ -1,7 +1,7 @@
 # First Coffee&amp;Code Meetup - HTML &amp; CSS
 ### Created by Caroline Chan
 
-Welcome to the first Coffee&Code Belfast!
+## Welcome to the first Coffee&Code Belfast!
 
 Today's challenge is to build a landing page for a Startup (a made up or real one, you choose!). It can be as simple or elaborate as you'd like. The minimum requirements are a business title, an image, and a sign up or subscribe button.
 Additional features may include any or all of the following: button linking to a contact form, nav bar, Google maps, social media links.
